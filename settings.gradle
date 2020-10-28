@@ -1,2 +1,2 @@
 rootProject.name='DuoleGouji'
-include ':app'
+include ':app', ':OpenCV-4.5'
